@@ -1,6 +1,6 @@
 import { copyrightSign } from "../assets/icons/index.js";
 import { footerLogo } from "../assets/images/index.js";
-import { footerLinks, socialMedia } from "../../../../realeproj/nike_landing_page/src/constants/index.js";
+import { footerLinks, socialMedia } from "../constants/index.js";
 
 const Footer = () => {
   return (

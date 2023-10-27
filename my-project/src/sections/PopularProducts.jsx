@@ -1,4 +1,4 @@
-import { products } from "../../../../realeproj/nike_landing_page/src/constants/index.js";
+import { products } from "../constants/index.js";
 import { PopularProductCard } from "../components/index.js";
 
 const PopularProducts = () => {

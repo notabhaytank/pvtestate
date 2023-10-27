@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import { shoes, statistics } from "../../../../realeproj/nike_landing_page/src/constants/index.js";
+import { shoes, statistics } from "../constants/index.js";
 import { Button, ShoeCard } from "../components/index.js";
 import { bigShoe1 } from "../assets/images/index.js";
 import { arrowRight } from "../assets/icons/index.js";

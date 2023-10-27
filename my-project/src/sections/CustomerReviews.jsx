@@ -1,5 +1,5 @@
 import { ReviewCard } from "../components/index.js";
-import { reviews } from "../../../../realeproj/nike_landing_page/src/constants/index.js";
+import { reviews } from "../constants/index.js";
 
 const CustomerReviews = () => {
   return (

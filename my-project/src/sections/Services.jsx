@@ -1,4 +1,4 @@
-import { services } from "../../../../realeproj/nike_landing_page/src/constants/index.js";
+import { services } from "../constants/index.js";
 import { ServiceCard } from "../components/index.js";
 
 const Services = () => {
